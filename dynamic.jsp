@@ -1,0 +1,1 @@
+<% out.print("<h2>The Date is:"+ java.uti.Date()+"</h2>");%>
